@@ -1,0 +1,48 @@
+div.TabsHolder {
+            visibility: hidden; 
+ background-color: white;
+}
+div.TabsHolder:after{
+}
+img.LogoLeft {
+  background-image: url("https://ca.docusign.net/Member/Image.aspx?i=logo&l=ed714893-105b-41c5-a265-a683c3a6e529");
+}
+img.LogoLeft:after{
+ background-image: url("https://ca.docusign.net/Member/Image.aspx?i=logo&l=ed714893-105b-41c5-a265-a683c3a6e529");
+}
+div.title {
+font-size: 0px;
+color: #333333;
+}
+div.title:after{
+color: #333333;
+}
+title {
+font-size: 28px;
+color: #333333;
+}
+title:after{
+color: #333333;
+}
+div.titlereplace {
+font-size: 28px;
+color: #333333;
+}
+.labelRole:after{
+font-size: 16px;
+color: #ff0000;
+margin-top: 20px;
+}
+input#ds_hldrBdy_Signer_Email.content.input{
+width: 400px;
+height: 34px;
+font-size: 20px;
+font-weight: bold;
+color: #333333;
+padding: 0 10px;
+margin-top: 4px;
+border: solid 1px #cccccc;
+border-radius: 2px;
+}
+input#ds_hldrBdy_Signer_Email.content.input:after{
+}
